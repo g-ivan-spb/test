@@ -1,0 +1,16 @@
+.fon1 {
+    background: url('img/1.jpg') 0 0 no-repeat fixed;
+
+    height: 150px;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000000;
+}
+.fon2 {
+    background: url('img/1.jpg') 0 0 no-repeat local;
+
+    height: 150px;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000000;
+}
